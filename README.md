@@ -35,8 +35,8 @@ The primary objective of this project is to create an innovative solution that l
 
 ## How to Use
 
-    * Clone the repository
-    * Download the 6gb HAM10000 dataset from (Kaggle)[https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data]
-    * unzip and copy the dataset to this repository and rename the folder from archive to data. We are gitignoring the data folder so that it is not uploaded to the repository.
-    * run preprocessing_eda.py to verify you can successfully load the data
+- Clone the repository
+- Download the 6gb HAM10000 dataset from (Kaggle)[https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data]
+- unzip and copy the dataset to this repository and rename the folder from archive to data. We are gitignoring the data folder so that it is not uploaded to the repository.
+- run preprocessing_eda.py to verify you can successfully load the data
 
