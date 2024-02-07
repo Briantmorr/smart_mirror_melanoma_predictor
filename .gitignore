@@ -1,2 +1,4 @@
 /data/*.jpg
 /data/*.jpeg
+
+.DS_Store
