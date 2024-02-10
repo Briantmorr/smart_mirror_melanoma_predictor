@@ -33,7 +33,7 @@ The primary goal is to create a model that not only identifies skin cancer but c
 ## How to Use
 
 - Clone the repository.
-- Download and prepare the ISIC 2020 dataset images, focusing on patients with multiple images and especially those showing changes in lesion status. The dataset is available at [ISIC 2020 Challenge Dataset](https://challenge2020.isic-archive.com). The images are bundled in a few different ways. We'll be using the jpeg image set called [Download JPEG (23GB)] (https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Training_JPEG.zip). Due to the large size of the dataset, I've excluded it from the repository. But kept the metadata csv files. You can download the dataset and place the images in the `data` directory.
+- Download and prepare the ISIC 2020 dataset images, focusing on patients with multiple images and especially those showing changes in lesion status. The dataset is available at [ISIC 2020 Challenge Dataset](https://challenge2020.isic-archive.com). The images are bundled in a few different ways. We'll be using the jpeg image set called [Download JPEG (23GB)](https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Training_JPEG.zip). Due to the large size of the dataset, I've excluded it from the repository. But kept the metadata csv files. You can download the dataset and place the images in the `data` directory.
 - Verify you can run the preprocessing notebook
 
 ### Citing the Dataset
